@@ -2,10 +2,10 @@
 [![safe049 - KonaDown](https://img.shields.io/static/v1?label=safe049&message=KonaDown&color=blue&logo=github)](https://github.com/safe049/KonaDown "Go to GitHub repo")
 [![stars - KonaDown](https://img.shields.io/github/stars/safe049/KonaDown?style=social)](https://github.com/safe049/KonaDown)
 [![forks - KonaDown](https://img.shields.io/github/forks/safe049/KonaDown?style=social)](https://github.com/safe049/KonaDown)
-
 [![GitHub release](https://img.shields.io/github/release/safe049/KonaDown?include_prereleases=&sort=semver&color=blue)](https://github.com/safe049/KonaDown/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - KonaDown](https://img.shields.io/github/issues/safe049/KonaDown)](https://github.com/safe049/KonaDown/issues)
+
 欢迎使用 Konachan 下载器！这是一个基于 Python 的应用程序，允许用户通过指定标签搜索和下载壁纸。该应用程序使用 cloudscraper 库与 Konachan API 进行交互，并使用 Flet 库创建用户界面。
 
 ## 功能
