@@ -7,7 +7,7 @@
 [![issues - KonaDown](https://img.shields.io/github/issues/safe049/KonaDown)](https://github.com/safe049/KonaDown/issues)
 
 欢迎使用 Konachan 下载器！这是一个基于 Python 的应用程序，允许用户通过指定标签搜索和下载壁纸。该应用程序使用 cloudscraper 库与 Konachan API 进行交互，并使用 Flet 库创建用户界面。
-![Screenshot](https://github.com/safe049/KonaDown/blob/main/screenshot.png)
+[![截屏](https://github.com/safe049/KonaDown/blob/main/screenshot.png)
 ## 功能
 
 - 搜索壁纸：用户可以根据输入的标签搜索壁纸。
